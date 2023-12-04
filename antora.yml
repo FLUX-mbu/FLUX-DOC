@@ -4,11 +4,6 @@
 # site/start_page)
 name: containers
 
- # Title will be visible on the page.                       
-.Optional title of sidebar
-****
-Sidebars are used to visually separate short, auxiliary bits of content that supplement the main text.
-****
 
 # Title will be visible on the page.
 title: Fedora Container Docs
