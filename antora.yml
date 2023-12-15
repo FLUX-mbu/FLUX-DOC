@@ -2,7 +2,9 @@
 # Tip: If you want to use the local preview scripts that come with this
 # repository, please change this value in the site.yml file as well (under
 # site/start_page)
-name: containers
+# name: containers
+name: site.yml
+
 
 
 # Title will be visible on the page.
@@ -20,4 +22,5 @@ version: ~
 
 # This lists all the menu definitions of your component.
 nav:
+- 
 - modules/ROOT/nav.adoc
