@@ -1,0 +1,48 @@
+Demo Documentation Component A
+
+
+
+Component A is an example of a documentation component.
+It is used by the Antora Demo site.
+The playbook and instructions for the Demo site are located in the Demo site playbook project.
+
+
+
+
+
+Resources
+
+
+
+
+Antora Project
+
+
+Antora Docs
+
+
+Antora Repositories
+
+
+
+
+
+
+
+Copyright and License
+
+
+Copyright © 2017-present by OpenDevise Inc. and the individual contributors to Antora.
+
+
+Use of this software is granted under the terms of the Mozilla Public License Version 2.0 (MPL-2.0).
+See LICENSE to find the full license text.
+
+
+
+
+
+Authors
+
+
+Development of Antora is led and sponsored by OpenDevise Inc.
